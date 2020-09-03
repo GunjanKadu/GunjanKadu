@@ -32,6 +32,7 @@ Ladenburg,Germany** 🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 
-![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanKadu&show_icons=true&hide_border=true)
+![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanKadu&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanKadu&layout=compact)
 
 ❤️ From [Gunjan Kadu](https://github.com/GunjanKadu)
