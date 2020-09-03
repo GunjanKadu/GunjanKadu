@@ -1,16 +1,35 @@
-### Hi there 👋
+### [Hey 👋, I'm Gunjan](www.gunjankadu.live) 
 
-<!--
-**GunjanKadu/GunjanKadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi there, I'm **Gunjan Kadu**, a **Masters Student in Computer Science** at Hochschule Heidelberg,Germany and a **Software Engineer at ABB Research Center 
+Ladenburg,Germany** 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently an Full Stack Web Developer Intern with [ABB](https://global.abb/group/en) working on Real Time Data Transformation;
+- 🌱 I’m currently learning Advanced Microservice Architecture and Developemnt using Node Js and Spring Boot; 
+- 🤔 My interests are with Full Stack Web Developement, Front End Development, State Management and Developing Microservices;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via agunjan.kadu@gmail.com to reach me.
+- 📝 See my [Personal Website](www.gunjankadu.live) to get more info.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanKadu&show_icons=true&hide_border=true)
+
+⭐️ From [Gunjan Kadu](https://github.com/GunjanKadu)
