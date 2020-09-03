@@ -34,4 +34,4 @@ Ladenburg,Germany** 🚀
 
 ![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanKadu&show_icons=true&hide_border=true)
 
-⭐️ From [Gunjan Kadu](https://github.com/GunjanKadu)
+<p align="center">❤️ From [Gunjan Kadu](https://github.com/GunjanKadu)</p>
