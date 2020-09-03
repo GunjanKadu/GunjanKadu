@@ -1,7 +1,5 @@
 ### [Hey 👋, I'm Gunjan](www.gunjankadu.live) 
 
-<br />
-<br />
 
 Hi there, I'm **Gunjan Kadu**, a **Masters Student in Computer Science** at Hochschule Heidelberg,Germany and a **Software Engineer at ABB Research Center 
 Ladenburg,Germany** 🚀 
