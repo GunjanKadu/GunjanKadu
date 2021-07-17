@@ -13,9 +13,9 @@ Ladenburg,Germany** 🚀
 - 🤔 My interests are with Full Stack Web Developement, Front End Development, State Management and Developing Microservices;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via agunjan.kadu@gmail.com to reach me.
-- 📝 See my [Personal Website](www.gunjankadu.live) to get more info.<br/>
-- 🏆 My [Achievements](https://gunjankadu-2eaa6.firebaseapp.com/certificates)
-- 📚 My [Projects](https://gunjankadu-2eaa6.firebaseapp.com/projects)
+- 📝 See my [Personal Website](https://gunjankadu.netlify.app/) to get more info.<br/>
+- 🏆 My [Achievements](https://gunjankadu.netlify.app/certificates)
+- 📚 My [Projects](https://gunjankadu.netlify.app/projects)
 
 
 **Languages and Tools:**  
