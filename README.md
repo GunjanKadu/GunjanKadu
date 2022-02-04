@@ -4,7 +4,7 @@ Hi there, I'm **Gunjan Kadu**, currently holding **Master's in Computer Science*
 
 
 **Talking about Personal Stuffs:**
-- 💼 I’m am currently an Software Engineer in SRH IT-Solutions [SRH](https://www.srh.de/de).
+- 💼 I’m currently an Software Engineer in SRH IT-Solutions [SRH](https://www.srh.de/de).
 - 👨🏽‍💻 I was currently an Full Stack Web Developer [ABB](https://global.abb/group/en) working on Real Time Data Transformation;
 - 🌱 I’m currently learning Advanced Microservice Architecture and Developemnt using Node Js and Spring Boot; 
 - 🤔 My interests are with Full Stack Web Developement, Front End Development, State Management and Developing Microservices;
