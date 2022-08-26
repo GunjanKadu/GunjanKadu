@@ -1,6 +1,6 @@
 ### [Hey 👋, I'm Gunjan](https://gunjankadu.com) 
 
-Hi there, I'm **Gunjan Kadu**, currently holding **Master's in Computer Science** from Hochschule Heidelberg, Germany and a **Software Engineer at SRH IT Solutions - Heidelberg,Germany** 🚀 Majored in Full Stack Web and Mobile App Development. I am also a Java Developer majorly focusing on REST Services & Micro-Services using Spring Framework & MySQL.
+Hi there, I'm **Gunjan Kadu**, currently holding **Master's in Computer Science** from Hochschule Heidelberg, Germany and a **Software Engineer at SAP SE  Walldorf,Germany** 🚀 Majored in Full Stack Web and Mobile App Development. I am also a Java Developer majorly focusing on REST Services & Micro-Services using Spring Framework & MySQL.
 
 
 **Talking about Personal Stuffs:**
