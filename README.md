@@ -34,5 +34,3 @@ Hi there, I'm **Gunjan Kadu**, currently holding **Master's in Computer Science*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanKadu&layout=compact)
 
 ❤️ From [Gunjan Kadu](https://github.com/GunjanKadu)
-
-![](https://hit.yhype.me/github/profile?user_id=49846232)
